@@ -13,6 +13,8 @@ Technologies used in the app include: Node, Moment, Spotify API, Javascript, Axi
 
 My role was writing the code for the app. Links to screen shots showing the app is working are below.
 
-liri-node-app/Images/Concert This.jpg
-
-
+https://github.com/kenyaking/liri-node-app/blob/master/Images/Concert%20This.jpg
+https://github.com/kenyaking/liri-node-app/blob/master/Images/Movie%20This.png
+https://github.com/kenyaking/liri-node-app/blob/master/Images/spotify%20this1.jpg
+https://github.com/kenyaking/liri-node-app/blob/master/Images/Movie%20This%20-%20No%20Movie%20Specified.jpg 
+https://github.com/kenyaking/liri-node-app/blob/master/Images/Spotify%20This%20Song%20-%20No%20Song%20Specified.jpg
