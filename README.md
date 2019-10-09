@@ -13,6 +13,6 @@ Technologies used in the app include: Node, Moment, Spotify API, Javascript, Axi
 
 My role was writing the code for the app. Links to screen shots showing the app is working are below.
 
-
+liri-node-app/Images/Concert This.jpg
 
 
