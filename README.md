@@ -13,17 +13,17 @@ Technologies used in the app include: Node, Moment, Spotify API, Javascript, Axi
 
 My role was writing the code for the app. Links to screen shots showing the app is working are below.
 
-Concert This
+CONCERT THIS:
 https://github.com/kenyaking/liri-node-app/blob/master/Images/Concert%20This.jpg
 
-Movie This
+MOVIE THIS:
 https://github.com/kenyaking/liri-node-app/blob/master/Images/Movie%20This.png
 
-Spotify This Song
+SPOTIFY THIS:
 https://github.com/kenyaking/liri-node-app/blob/master/Images/spotify%20this1.jpg
 
-Movie This - No movie named default result
+MOVIE THIS: DEFAULT RESULT IF NO MOVIE NAMED 
 https://github.com/kenyaking/liri-node-app/blob/master/Images/Movie%20This%20-%20No%20Movie%20Specified.jpg 
 
-Spotify This - No artist named default result
+SPOTIFY THIS: DEFAULT RESULT IF NO SONG NAMED
 https://github.com/kenyaking/liri-node-app/blob/master/Images/Spotify%20This%20Song%20-%20No%20Song%20Specified.jpg
